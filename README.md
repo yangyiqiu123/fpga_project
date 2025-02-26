@@ -1,5 +1,8 @@
 # fpga_project
 ## Authors: 110321002 何雨叡 110321005 邱暘壹 110321029 黃柏源
+![image](https://github.com/user-attachments/assets/060beaa3-294c-4752-9493-f644d03a9307)
+## DEMO 影片
+https://drive.google.com/file/d/1Mm9-EfjWEZ9URJ82ZRNmmbz4O2RvGrgl/view?usp=drive_link
 ### Input/Output unit:
 
 * 8*8 Led 矩陣顯示遊戲畫面
